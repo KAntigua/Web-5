@@ -76,14 +76,16 @@ Plantilla::aplicar();
   }
 
   .text-center.mt-4 a.btn-secondary {
-    background-color:rgb(112, 60, 77);
+    background-color: #f48fb1;
     border: none;
     color: white;
   }
 
-  .text-center.mt-4 a.btn-secondary:hover {
-    background-color: #ba68c8;
-  }
+}
+    .text-center.mt-4 a.btn-secondary {
+    background-color: #f48fb1;
+    border: none;
+    color: white; }
 </style>
 
 <div class="container mt-4 mb-5">

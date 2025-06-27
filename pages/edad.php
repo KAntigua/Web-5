@@ -52,7 +52,7 @@ $nombreEdad = '';
     .text-center.mt-4 a.btn-secondary {
     background-color: #f48fb1;
     border: none;
-    color: white;
+    color: white; }
 </style>
 
 <div class="container mt-4 mb-5">
@@ -63,7 +63,7 @@ $nombreEdad = '';
             <form id="formEdad" class="card p-4 rounded-4 shadow border-0" onsubmit="return false;">
                 <div class="mb-3">
                     <label for="nombreEdad" class="form-label">Nombre:</label>
-                    <input type="text" class="form-control" name="nombreEdad" id="nombreEdad" placeholder="Ej. Ana" required>
+                    <input type="text" class="form-control" name="nombreEdad" id="nombreEdad" placeholder="Ej. Juan" required>
                 </div>
                 <button type="submit" class="btn btn-primary w-100">Predecir edad</button>
             </form>

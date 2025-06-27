@@ -37,6 +37,11 @@ Plantilla::aplicar();
     font-size: 2rem;
     margin-right: 10px;
   }
+
+    .text-center.mt-4 a.btn-secondary {
+    background-color: #f48fb1;
+    border: none;
+    color: white; }
 </style>
 
 <div class="container mt-4 mb-5">

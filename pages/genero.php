@@ -49,7 +49,7 @@ $nombreGenero = '';
     .text-center.mt-4 a.btn-secondary {
     background-color: #f48fb1;
     border: none;
-    color: white;
+    color: white;}
 </style>
 
 <!-- Contenido principal -->

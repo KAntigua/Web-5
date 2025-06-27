@@ -39,6 +39,11 @@ Plantilla::aplicar();
   .btn-refresh:hover {
     background-color: rgb(200, 20, 140);
   }
+
+    .text-center.mt-4 a.btn-secondary {
+    background-color: #f48fb1;
+    border: none;
+    color: white; }
 </style>
 
 <div class="container">
@@ -75,6 +80,6 @@ Plantilla::aplicar();
     }
   }
 
-  // Cargar un chiste al cargar la página
+ 
   cargarChiste();
 </script>
